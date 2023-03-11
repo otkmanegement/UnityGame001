@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Canvas
+  - GameManager
+  - Wave1
+  - Wave2
+  - Wave3
+  - Wave4
+  - Attacker
+  - CharaDetail
+  - CharaSelect
+  - Wave5
+  - Wave6
+  - Wave7
+  - Wave8
+  - Wave9
+  - Wave10
+  - Wave11
+  - Wave12
+  - Wave13
+  - Wave14
+  - Wave15
+  - Wave16
+  - Wave17
+  - Wave18
+  - Wave19
+  - Wave20
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
